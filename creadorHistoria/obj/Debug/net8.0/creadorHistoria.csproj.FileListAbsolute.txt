@@ -1,0 +1,28 @@
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.exe
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.deps.json
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.runtimeconfig.json
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.pdb
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.AssemblyInfoInputs.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.AssemblyInfo.cs
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.csproj.CoreCompileInputs.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\refint\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.pdb
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.genruntimeconfig.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\ref\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.exe
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.deps.json
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.runtimeconfig.json
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\bin\Debug\net8.0\creadorHistoria.pdb
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.AssemblyInfoInputs.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.AssemblyInfo.cs
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.csproj.CoreCompileInputs.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\refint\creadorHistoria.dll
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.pdb
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\creadorHistoria.genruntimeconfig.cache
+C:\Users\sreli\Desktop\Clases_Itla\Clases\cuatrimestre_2\fundamentosProgramacion\2 - programaFacilitador\creadorHistorias\creadorHistoria\obj\Debug\net8.0\ref\creadorHistoria.dll
